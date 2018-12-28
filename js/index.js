@@ -62,12 +62,15 @@ function progressBar () {
   if (window.location.href === "http://localhost:3000/" || window.location.href === "https://muscarnival.github.io/") {
     $(window).blur(pauseVideo)
   }
-  else {
+  else if (window.nunload = function()) {
+  $(window).blur(pauseVideo)
+  }
+  /*else {
     $("#select-team-filter").change(function (event) {
       var filter = $("#select-team-filter option:selected")[0].label
       $("#participant-table").empty()
       updateTable(masterTable, filter)
     })
-  }
+  }*/
 
 })(jQuery)

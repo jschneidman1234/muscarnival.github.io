@@ -62,6 +62,9 @@ function progressBar () {
   if (window.location.href === "http://localhost:3000/" || window.location.href === "https://muscarnival.github.io/") {
     $(window).blur(pauseVideo)
   }
+  else if(window.onbeforeunload = function()) {
+    return "Please continue watching.";
+}
   else if (window.nunload = function()) {
   $(window).blur(pauseVideo)
   }

@@ -62,11 +62,11 @@ function progressBar () {
   if (window.location.href === "http://localhost:3000/" || window.location.href === "https://muscarnival.github.io/") {
     $(window).blur(pauseVideo)
   }
-  else if(window.onbeforeunload = function()) {
+  window.onbeforeunload = function()) {
     return "Please continue watching.";
-}
-  else if (window.nunload = function()) {
-  $(window).blur(pauseVideo)
+  }
+  window.onunload = function()) {
+    $(window).blur(pauseVideo)
   }
   /*else {
     $("#select-team-filter").change(function (event) {

@@ -62,10 +62,10 @@ function progressBar () {
   if (window.location.href === "http://localhost:3000/" || window.location.href === "https://scigames2019.github.io/scigames/") {
     $(window).blur(pauseVideo)
   }
-  window.onbeforeunload = function()) {
+  window.onbeforeunload = function() {
     return "Please continue watching.";
   }
-  window.onunload = function()) {
+  window.onunload = function() {
     $(window).blur(pauseVideo)
   }
   /*else {

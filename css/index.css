@@ -96,7 +96,6 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -106,7 +105,6 @@ a {
     vertical-align: middle; }
     .masthead .intro-body .brand-heading {
       font-size: 80px;
-      color: #438185;
       font-family: 'Lobster', cursive;
       padding: 60px;
       padding-bottom: 10px;

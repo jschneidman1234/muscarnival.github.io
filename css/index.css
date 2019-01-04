@@ -215,12 +215,12 @@ body {
 
 .login-btn:hover {
   background-color: rgba(255, 255, 255, 0.2);
-  /* color: #438185; */
+  color: white;
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:focus {
   background-color: rgba(255, 255, 255, 0.2);
-  /* color: #438185; */
+  color: white;
   border-color: rgba(0, 0, 0, 0) !important; }
 
 .form-label {

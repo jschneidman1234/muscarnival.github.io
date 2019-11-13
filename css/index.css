@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100%;
   color: white;
-  background-color: #ffff33; }
+  background-color: #ffff00; }
 
 html {
   width: 100%;
@@ -38,10 +38,10 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #ffff33; }
+  color: #ffff00; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #ffff33; }
+    color: #ffff003; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -113,7 +113,7 @@ a {
       font-weight: 700; }
     .masthead .intro-body .intro-text {
       font-size: 26px;
-      color: #ffff33;
+      color: #ffff00;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .masthead {
@@ -141,16 +141,16 @@ a {
     vertical-align: middle; }
     .waiverhead .intro-body .brand-heading {
       font-size: 80px;
-      color: #438185;
+      color: #ffff00;
       font-family: 'Lobster', cursive;
       background: rgba(0, 0, 0, 0.8);
       padding: 50px;
       padding-bottom: 0;
-      border: 6px solid  #438185;
+      border: 6px solid  #ffff00;
       border-radius: 100% !important; }
     .waiverhead .intro-body .intro-text {
       font-size: 26px;
-      color: #0fe9ff;
+      color: #ffff00;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .waiverhead {
@@ -170,8 +170,8 @@ a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #ffff33;
-  border: 6px solid  #438185;
+  color: #ffff00;
+  border: 6px solid  #ffff00;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
   .btn-circle:hover {
@@ -215,12 +215,12 @@ body {
 
 .login-btn:hover {
   background-color: rgb(255, 255, 51);
-  color: #2C5326;
+  color: #ffff00;
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:focus {
   background-color: rgb(255, 255, 51);
-  color: #2C5326;
+  color: #ffff00;
   border-color: rgba(0, 0, 0, 0) !important; }
 
 .form-label {
@@ -246,7 +246,7 @@ video {
 .waiver-container {
   background-color: white;
   margin: 0 auto;
-  border: 12px solid #004c92;
+  border: 12px solid #ffff00;
   padding: 50px; }
 
 #myProgress {
@@ -301,7 +301,7 @@ video {
 
 .brand-ending {
   font-size: 80px;
-  color: #ffff33;
+  color: #ffff00;
   font-family: 'Lobster', cursive;
   padding: 60px;
   margin: 0;
@@ -333,12 +333,12 @@ video {
 }
 
 .rainbow-background {
-  border-color: #ffff33;
-  color: #ffff33;
+  border-color: #ffff00;
+  color: #ffff00;
 }
 
 .rainbow-border {
-  border-color: #ffff33;
+  border-color: #ffff00;
  }
 
 @-webkit-keyframes rainbow {

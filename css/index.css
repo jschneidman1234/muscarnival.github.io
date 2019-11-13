@@ -146,7 +146,7 @@ a {
       background: rgba(0, 0, 0, 0.8);
       padding: 50px;
       padding-bottom: 0;
-      border: 6px solid  #ffff00;
+      border: 6px solid  #ffb6c1;
       border-radius: 100% !important; }
     .waiverhead .intro-body .intro-text {
       font-size: 26px;
@@ -246,7 +246,7 @@ video {
 .waiver-container {
   background-color: white;
   margin: 0 auto;
-  border: 12px solid #ffff00;
+  border: 12px solid #ffb6c1;
   padding: 50px; }
 
 #myProgress {
@@ -333,12 +333,12 @@ video {
 }
 
 .rainbow-background {
-  border-color: #ffff00;
+  border-color: #ffb6c1;
   color: #ffff00;
 }
 
 .rainbow-border {
-  border-color: #ffff00;
+  border-color: #ffb6c1;
  }
 
 @-webkit-keyframes rainbow {

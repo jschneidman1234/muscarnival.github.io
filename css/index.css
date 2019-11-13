@@ -38,7 +38,7 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #def500; }
+  color: #0fe9ff; }
   a:focus, a:hover {
     text-decoration: none;
     color: #def500; }
@@ -333,12 +333,12 @@ video {
 }
 
 .rainbow-background {
-  border-color: #0fe9ff;
-  color: #2C5326;
+  border-color: #00d9ff;
+  color: #00d9ff;
 }
 
 .rainbow-border {
-  border-color: #0fe9ff;
+  border-color: #00d9ff;
  }
 
 @-webkit-keyframes rainbow {

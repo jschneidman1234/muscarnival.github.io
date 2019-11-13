@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100%;
   color: white;
-  background-color: #00d9ff; }
+  background-color: #ffff33; }
 
 html {
   width: 100%;
@@ -38,10 +38,10 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #00d9ff; }
+  color: #ffff33; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #00d9ff; }
+    color: #ffff33; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -113,7 +113,7 @@ a {
       font-weight: 700; }
     .masthead .intro-body .intro-text {
       font-size: 26px;
-      color: #0fe9ff;
+      color: #ffff33;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .masthead {
@@ -170,7 +170,7 @@ a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #0fe9ff;
+  color: #ffff33;
   border: 6px solid  #438185;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
@@ -210,7 +210,7 @@ body {
 
 .login-btn {
   margin-top: 15px;
-  background-color: rgb(255, 255, 51));
+  background-color: rgb(255, 255, 51);
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:hover {
@@ -259,7 +259,7 @@ video {
 
 #myBar {
   width: 10%;
-  background-color: #0fe9ff;
+  background-color: #ffff33;
   padding-top: 5px;
   font-family: Lobster, cursive;
   color: rgba(0, 0, 0, 0.8);
@@ -301,7 +301,7 @@ video {
 
 .brand-ending {
   font-size: 80px;
-  color: #0fe9ff;
+  color: #ffff33;
   font-family: 'Lobster', cursive;
   padding: 60px;
   margin: 0;
@@ -333,12 +333,12 @@ video {
 }
 
 .rainbow-background {
-  border-color: #00d9ff;
-  color: #00d9ff;
+  border-color: #ffff33;
+  color: #ffff33;
 }
 
 .rainbow-border {
-  border-color: #00d9ff;
+  border-color: #ffff33;
  }
 
 @-webkit-keyframes rainbow {

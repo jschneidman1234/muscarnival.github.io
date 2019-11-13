@@ -113,7 +113,7 @@ a {
       font-weight: 700; }
     .masthead .intro-body .intro-text {
       font-size: 26px;
-      color: #438185;
+      color: #0fe9ff;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .masthead {
@@ -150,7 +150,7 @@ a {
       border-radius: 100% !important; }
     .waiverhead .intro-body .intro-text {
       font-size: 26px;
-      color: #438185;
+      color: #0fe9ff;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .waiverhead {
@@ -170,7 +170,7 @@ a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #438185;
+  color: #0fe9ff;
   border: 6px solid  #438185;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
@@ -259,7 +259,7 @@ video {
 
 #myBar {
   width: 10%;
-  background-color: #ACCC5E;
+  background-color: #0fe9ff;
   padding-top: 5px;
   font-family: Lobster, cursive;
   color: rgba(0, 0, 0, 0.8);
@@ -301,7 +301,7 @@ video {
 
 .brand-ending {
   font-size: 80px;
-  color: #438185;
+  color: #0fe9ff;
   font-family: 'Lobster', cursive;
   padding: 60px;
   margin: 0;
@@ -333,12 +333,12 @@ video {
 }
 
 .rainbow-background {
-  border-color: #ACCC5E;
+  border-color: #0fe9ff;
   color: #2C5326;
 }
 
 .rainbow-border {
-  border-color: #ACCC5E;
+  border-color: #0fe9ff;
  }
 
 @-webkit-keyframes rainbow {

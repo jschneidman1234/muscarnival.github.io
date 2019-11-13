@@ -47,7 +47,7 @@ a {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgb (51, 204, 255);
   background-color: black; }
   #mainNav .navbar-toggler {
     font-size: 14px;
@@ -81,7 +81,7 @@ a {
       #mainNav.navbar-shrink {
         padding-top: 10px;
         padding-bottom: 10px;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        border-bottom: 1px solid rgb (51, 204, 255);
         background: black; }
       #mainNav .nav-link.active {
         outline: none;

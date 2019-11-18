@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100%;
   color: white;
-  background-color: #ffff00; }
+  background-color: #ffffa8; }
 
 html {
   width: 100%;
@@ -38,7 +38,7 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #ffff00; }
+  color: #ffffa8; }
   a:focus, a:hover {
     text-decoration: none;
     color: #ffff003; }
@@ -113,7 +113,7 @@ a {
       font-weight: 700; }
     .masthead .intro-body .intro-text {
       font-size: 26px;
-      color: #ffff00;
+      color: #ffffa8;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .masthead {
@@ -141,7 +141,7 @@ a {
     vertical-align: middle; }
     .waiverhead .intro-body .brand-heading {
       font-size: 80px;
-      color: #ffff00;
+      color: #ffffa8;
       font-family: 'Lobster', cursive;
       background: rgba(0, 0, 0, 0.8);
       padding: 50px;
@@ -170,7 +170,7 @@ a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #ffff00;
+  color: #ffffa8;
   border: 6px solid  #ffff00;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
@@ -215,12 +215,12 @@ body {
 
 .login-btn:hover {
   background-color: rgb(255, 255, 51);
-  color: #ffff00;
+  color: #ffffa8;
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:focus {
   background-color: rgb(255, 255, 51);
-  color: #ffff00;
+  color: #ffffa8;
   border-color: rgba(0, 0, 0, 0) !important; }
 
 .form-label {
@@ -301,7 +301,7 @@ video {
 
 .brand-ending {
   font-size: 80px;
-  color: #ffff00;
+  color: #ffffa8;
   font-family: 'Lobster', cursive;
   padding: 60px;
   margin: 0;
@@ -334,7 +334,7 @@ video {
 
 .rainbow-background {
   border-color: #ffb6c1;
-  color: #ffff00;
+  color: #ffffa8;
 }
 
 .rainbow-border {

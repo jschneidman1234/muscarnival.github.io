@@ -41,7 +41,7 @@ a {
   color: #ffffa8; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #ffff003; }
+    color: #ffffa8; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -150,7 +150,7 @@ a {
       border-radius: 100% !important; }
     .waiverhead .intro-body .intro-text {
       font-size: 26px;
-      color: #ffff00;
+      color: #ffffa8;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .waiverhead {
@@ -171,7 +171,7 @@ a {
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
   color: #ffffa8;
-  border: 6px solid  #ffff00;
+  border: 6px solid  #ffffa8;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
   .btn-circle:hover {

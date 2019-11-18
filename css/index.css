@@ -9,7 +9,7 @@ body {
   width: 100%;
   height: 100%;
   color: white;
-  background-color: #ffffa8; }
+  background-color: #ffffcc; }
 
 html {
   width: 100%;
@@ -38,10 +38,10 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #ffffa8; }
+  color: #ffffcc; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #ffffa8; }
+    color: #ffffcc; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -113,7 +113,7 @@ a {
       font-weight: 700; }
     .masthead .intro-body .intro-text {
       font-size: 26px;
-      color: #ffffa8;
+      color: #ffffcc;
       font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .masthead {
@@ -141,7 +141,7 @@ a {
     vertical-align: middle; }
     .waiverhead .intro-body .brand-heading {
       font-size: 80px;
-      color: #ffffa8;
+      color: #ffffcc;
       font-family: 'Lobster', cursive;
       background: rgba(0, 0, 0, 0.8);
       padding: 50px;
@@ -170,8 +170,8 @@ a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: #ffffa8;
-  border: 6px solid  #ffffa8;
+  color: #ffffcc;
+  border: 6px solid  #ffffcc;
   border-radius: 100% !important;
   background: rgba(0, 0, 0, 0.6); }
   .btn-circle:hover {
@@ -198,7 +198,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: rgb(255, 255, 51); }
+  -webkit-tap-highlight-color: rgb(255,255,204); }
 
 .form-group {
   font-family: 'Lobster', cursive;
@@ -210,17 +210,17 @@ body {
 
 .login-btn {
   margin-top: 15px;
-  background-color: rgb(255, 255, 51);
+  background-color: rgb(255,255,204);
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:hover {
-  background-color: rgb(255, 255, 51);
-  color: #ffffa8;
+  background-color: rgb(255,255,204);
+  color: #ffffcc;
   border-color: rgba(0, 0, 0, 0); }
 
 .login-btn:focus {
-  background-color: rgb(255, 255, 51);
-  color: #ffffa8;
+  background-color: rgb(255,255,204);
+  color: #ffffcc;
   border-color: rgba(0, 0, 0, 0) !important; }
 
 .form-label {
@@ -251,7 +251,7 @@ video {
 
 #myProgress {
   width: 80%;
-  background-color: rgb(255, 255, 51);
+  background-color: rgb(255,255,204);
   height: 38px;
   border-radius: 3px;
   margin: 0 auto;
